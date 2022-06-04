@@ -1,0 +1,6 @@
+name: EventsTest
+version: '1.1'
+main: me.abdel20089.eventstest.EventsTest
+prefix: ET
+authors: [ Abdel20089 ]
+description: This is a test for events
